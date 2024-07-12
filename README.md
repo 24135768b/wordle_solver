@@ -1,1 +1,1 @@
-python search.py
+python search.py < words
